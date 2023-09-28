@@ -1,10 +1,15 @@
 # Jilai (Steven) Li
 
+![Alt Text](./unnamed.jpg)
+
 **Email:** jilai.li@mail.utoronto.ca  
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/johndoe)  
+**LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/jilai-li-aa61681b4)  
 **GitHub:** [GitHub Profile](https://github.com/johndoe)
 
 A third-year student at the University of Toronto, majoring in the Robotics Engineering branch of Engineering Science (BASc). 
+
+
+
 
 ## Research Experience
 
@@ -14,11 +19,10 @@ A third-year student at the University of Toronto, majoring in the Robotics Engi
 - Implemented RESTful APIs and integrated third-party services.
 - Collaborated with cross-functional teams to deliver high-quality software products.
 
-### Research Assistant | MCML at the University of Toronto | May 2022 - May 2023 
+### Research Assistant | Multifuctional Composites Manufacturing Laboratory (MCML) at the University of Toronto | May 2022 - May 2023 
 
 - Assisted in building and optimizing database systems.
 - Participated in code reviews and provided feedback for improvements.
-
 
 
 
@@ -30,10 +34,21 @@ A third-year student at the University of Toronto, majoring in the Robotics Engi
 - Assisted in building and optimizing database systems.
 - Participated in code reviews and provided feedback for improvements.
 
-### Research Assistant | MCML at the University of Toronto | May 2022 - May 2023 
+### Co-President | The Skule Ski Club | May 2022 - May 2023 
 
 - Assisted in building and optimizing database systems.
 - Participated in code reviews and provided feedback for improvements.
+
+### Director | The Skule Archives | May 2022 - May 2023 
+
+- Assisted in building and optimizing database systems.
+- Participated in code reviews and provided feedback for improvements.
+
+### Operational Assistant | SpiderSmart North York Inc. | May 2022 - May 2023 
+
+- Assisted in building and optimizing database systems.
+- Participated in code reviews and provided feedback for improvements.
+
 
 
 
@@ -53,12 +68,22 @@ Graduated: June 2021
 
 ## Skills
 
-- JavaScript
-- React.js
-- Node.js
+| Coding Skills | Proficiency | Hard Skills | Proficiency | Soft Skills | Proficiency |
+|----------|----------|---------|----------|----------|----------|
+| Python | Row 1, Col 2 | Fusion 360 |Row 2, Col 1 | Chinese | Row 2, Col 3 |
+| C | Row 2, Col 2 | SOLIDWORKS |Row 2, Col 1 | English | Row 2, Col 3 |
+| MATLAB | Row 1, Col 2 | AutoCAD |Row 2, Col 1 | French | Row 2, Col 3 |
+| SQL | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
+| CSS/HTML | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
+|  | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
+
+
+Coding: 
+- Python
+- C
 - HTML/CSS
-- Git
 - SQL
+- 
 
 ## Projects
 
