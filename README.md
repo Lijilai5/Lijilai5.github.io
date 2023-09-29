@@ -6,48 +6,51 @@
 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/jilai-li-aa61681b4)  
 **GitHub:** [GitHub Profile](https://github.com/johndoe)
 
-A third-year student at the University of Toronto, majoring in the Robotics Engineering branch of Engineering Science (BASc). 
-
-
+A third-year student at the University of Toronto, majoring in the Robotics Engineering branch of Engineering Science (BASc); an aspired engineering student with strong research background and design experience; a well-rounded student engineer that dreams to create an impact; a global citizen that aims for a better future. 
 
 
 ## Research Experience
 
-### Research Student | The Institute of Mechanics and Engineering (I2M) (Bordeaux) at Arts et Métiers | May 2023 - September 2023
+### Research Intern | The Institute of Mechanics and Engineering (I2M) (Bordeaux) at Arts et Métiers | May 2023 - September 2023
 
-- Developed and maintained front-end components using React.js.
-- Implemented RESTful APIs and integrated third-party services.
-- Collaborated with cross-functional teams to deliver high-quality software products.
+- Developed the essential foundations and instruments for the experiment, setting the stage for subsequent phases
+- Facilitated the team's endeavours of mathematical proofs and advanced numerical techniques
+- Reported on the construction and analysis of these instruments
 
-### Research Assistant | Multifuctional Composites Manufacturing Laboratory (MCML) at the University of Toronto | May 2022 - May 2023 
+### Research Assistant | Multifuctional Composites Manufacturing Laboratory (MCML) at the University of Toronto | May 2022 - Present
 
-- Assisted in building and optimizing database systems.
-- Participated in code reviews and provided feedback for improvements.
+- Maintained the lab's official public webpage, and contributed to funding application
+- Worked with a variety of plastic foaming methods, such as injection molding, extrusion, etc.
+- Delivered a report on producing non-structural PP blend foams with various void fractions via foam injection molding
 
 
 
 
 ## Extracurricular Experience
 
-### Mechanical Subteam Lead | Robotics for Space Exploration | May 2022 - May 2023 
+### Mechanical Team Lead and CRO | Robotics for Space Exploration | Sept 2022 - Now 
 
-- Assisted in building and optimizing database systems.
-- Participated in code reviews and provided feedback for improvements.
+- Led a team of more than 20 people to accomplish the design of a robotic chassis for a mars rover
+- Integrated electrical instruments, a robotic arm and software systems into the chassis
+- Competed and scored 8th place in Canada in the Canadian International Rover Challenge
+- Organized and established a new voting system that consists of the design of a website and a voting platform
 
-### Co-President | The Skule Ski Club | May 2022 - May 2023 
+### Co-President | The Skule Ski Club | May 2023 - Present
 
-- Assisted in building and optimizing database systems.
-- Participated in code reviews and provided feedback for improvements.
+- Organize an annual trip that consists of 100+ people to Mont Tremblant 
+- Coordinate a community of ski/snowboard enthusiasts via socials and outreach events
+- Responsible for event coordination/management, budget management, social outreach and event planning.
 
 ### Director | The Skule Archives | May 2022 - May 2023 
 
-- Assisted in building and optimizing database systems.
-- Participated in code reviews and provided feedback for improvements.
+- Organizing a museum of artifacts
 
 ### Operational Assistant | SpiderSmart North York Inc. | May 2022 - May 2023 
 
-- Assisted in building and optimizing database systems.
-- Participated in code reviews and provided feedback for improvements.
+- Participated in the school’s start-up process, including site selection, market research and development, and routine operation management
+- Organized numerous keynote sessions for the students
+- Designed and coded a smart book sorting system, that manages a small library of 5000 books
+- Orchestrated outreach initiatives that resulted in doubling the student enrollment
 
 
 
@@ -70,32 +73,17 @@ Graduated: June 2021
 
 | Coding Skills | Proficiency | Hard Skills | Proficiency | Soft Skills | Proficiency |
 |----------|----------|---------|----------|----------|----------|
-| Python | Row 1, Col 2 | Fusion 360 |Row 2, Col 1 | Chinese | Row 2, Col 3 |
-| C | Row 2, Col 2 | SOLIDWORKS |Row 2, Col 1 | English | Row 2, Col 3 |
-| MATLAB | Row 1, Col 2 | AutoCAD |Row 2, Col 1 | French | Row 2, Col 3 |
-| SQL | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
-| CSS/HTML | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
-|  | Row 2, Col 2 | Machining |Row 2, Col 1 | Interpersonal | Row 2, Col 3 |
+| Python | ••• | Fusion 360 | •••| Chinese | ••• |
+| C | •• | SOLIDWORKS | •• | English | ••• |
+| MATLAB | •• | AutoCAD |••• | French | • |
+| SQL | • | Machining |••• | Interpersonal | ••• |
+| CSS/HTML | ••| Sketchup |•• | Marketing | ••• |
+|  |  | Altium | • | Project Management | ••• |
 
-
-Coding: 
-- Python
-- C
-- HTML/CSS
-- SQL
-- 
-
-## Projects
-
-- **Project A** - [GitHub Repo](https://github.com/johndoe/project-a)
-  - Description of Project A.
-
-- **Project B** - [GitHub Repo](https://github.com/johndoe/project-b)
-  - Description of Project B.
 
 ## Certifications
 
-- Certified Web Developer - XYZ Certification Program
+- Machining Permit at the UofT MIE Machining Shop
 
 ## Languages
 
