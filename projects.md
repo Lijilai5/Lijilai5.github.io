@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to my projects page! Here you'll find a selection of personal and collaborative projects that showcase my skills in software development, robotics, machine learning, and more.
+Welcome to my list of projects! Hopefully I can convince you that I am interested in robotics. You'll find a selection of personal and interpersonal projects that prove (as adequately as they can) my skills in project development, robotics, machine learning, and more.
 
 ## Featured Projects
 
