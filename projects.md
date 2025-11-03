@@ -1,6 +1,8 @@
 # Projects
 
-Welcome to my list of projects! Hopefully I can convince you that I am interested in robotics. You'll find a selection of personal and interpersonal projects that prove (as adequately as they can) my skills in project development, robotics, machine learning, and more.
+Welcome to my list of projects! You'll find a selection of personal and interpersonal projects that can adequately reference my skills in project development, robotics, machine learning, and more.
+
+Back: [Check out my Projects →](README.md)
 
 ## Featured Projects
 
@@ -28,5 +30,5 @@ Welcome to my list of projects! Hopefully I can convince you that I am intereste
 
 ## More Projects
 
-Check out more of my work on my [GitHub profile](https://github.com/yourusername).
+Check out more of my work on my [GitHub profile](https://github.com/lijilai5).
 
