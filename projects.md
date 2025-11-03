@@ -2,12 +2,12 @@
 
 Welcome to my list of projects! You'll find a selection of personal and interpersonal projects that can adequately reference my skills in project development, robotics, machine learning, and more.
 
-Back: [Check out my Projects →](README.md)
+Back: [More about my experiences](README.md)
 
 ## Featured Projects
 
 ### 1. **Robotics Arm Controller**
-- **Description:** Developed a Python-based inverse kinematics and control system for a PUMA robotic arm, capable of precise object manipulation.
+- **Description:** Developed a MATLab-based inverse kinematics and control system for a PUMA robotic arm, capable of precise object manipulation.
 - **Technologies:** Python, NumPy, Robotics Toolbox
 - **Repository:** [GitHub Link](https://github.com/yourusername/robotics-arm-controller)
 
