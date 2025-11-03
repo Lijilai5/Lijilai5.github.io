@@ -8,7 +8,7 @@
 
 A fourth-year student at the University of Toronto, majoring in the Robotics Engineering specification of Engineering Science (BASc); an aspired engineering student with strong research background and design experience.
 
-[Check out my Projects →](projects.md)
+# work in progress... [Check out my Projects →](projects.md)
 
 ## Research Experience
 
